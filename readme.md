@@ -1,5 +1,5 @@
 ## Introduce
-This repo to inference the image type based on the model of resnet50.
+This repo to inference the image type based on the model of tensorflow resnet50.
 
 ## Howto
 ```
